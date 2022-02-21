@@ -1,0 +1,141 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #45b29a;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #45b29a;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #1e836c;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #909090 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #1e836c;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #45b29a;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #e4f9f5;
+  padding: 50px 0 20px;
+}
+
+.profilePicture {
+  width: 280px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 130px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: solid black;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.code-img {
+  width: 22%;
+  float: left;
+  margin-right: 30px;
+}
+
+.programming-img {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+  /* position: relative;
+  bottom: 25px */
+}
+
+.footer-link {
+  color: black;
+}
+
+.quotes {
+  font-family: cursive;
+  font-style: italic;
+}
+
+.github,
+.instagram,
+.linkedin {
+  width: 18px;
+  margin-right: 5px;
+  position: relative;
+  top: 3px;
+}
+
+.footer-h3 {
+  padding: 20px;
+}
+
+.fa {
+  margin-top: 4px;
+}

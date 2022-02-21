@@ -1,0 +1,27 @@
+
+h1 {
+      font-weight: 400;
+      font-family: "Montserrat", sans-serif;
+}
+
+img {
+  float: right;
+}
+
+.button {
+  display: inline-block;
+}
+
+.title {
+  line-height: 1.5;
+}
+
+.field {
+  position: relative;
+  top: 50px;
+  width: 250px;
+}
+
+.section {
+  text-align: center;
+}
